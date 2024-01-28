@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"iosfwd": "cpp",
+		"vector": "cpp",
+		"xstring": "cpp",
+		"map": "cpp",
+		"utility": "cpp",
+		"xtree": "cpp",
+		"xutility": "cpp"
+	}
+}
